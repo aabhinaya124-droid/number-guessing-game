@@ -37,3 +37,30 @@ Add your GitHub repository link here.
 Example:
 
 https://github.com/yourusername/NumberGuessingGame
+# Number Guessing Game
+
+A simple CLI-based Number Guessing Game built using Java.
+
+## Features
+- Random number generation
+- Easy, Medium, Hard difficulty levels
+- Hint system
+- Play again option
+- High score tracking
+- Timer
+
+## How to Run
+
+1. Compile the program:
+```bash
+javac src/NumberGuessingGame.java
+```
+
+2. Run the program:
+```bash
+java -cp src NumberGuessingGame
+```
+
+## Project URL
+
+https://github.com/aabhinaya124-droid/number-guessing-game
